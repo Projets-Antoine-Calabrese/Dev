@@ -1,0 +1,19 @@
+# dépôt source | dossier dans la source | destination | éléments (* = tout ; a=>b renomme) | mode (vide = automatique, manuel = seulement sur demande /nom)
+addyosmani/agent-skills | skills | .claude/skills | idea-refine interview-me spec-driven-development planning-and-task-breakdown incremental-implementation test-driven-development frontend-ui-engineering browser-testing-with-devtools debugging-and-error-recovery code-review-and-quality code-simplification performance-optimization security-and-hardening git-workflow-and-versioning documentation-and-adrs source-driven-development constraint-driven-development doubt-driven-development
+addyosmani/agent-skills | references | .claude/references | *
+obra/superpowers | skills | .claude/skills | systematic-debugging verification-before-completion writing-plans receiving-code-review
+obra/superpowers | skills | .claude/skills | brainstorming | manuel
+anthropics/skills | skills | .claude/skills | webapp-testing
+anthropics/claude-plugins-official | plugins/playground/skills | .claude/skills | playground
+anthropics/claude-plugins-official | plugins/claude-md-management/skills | .claude/skills | claude-md-improver
+anthropics/claude-plugins-official | plugins/claude-md-management/commands | .claude/commands | revise-claude-md
+anthropics/claude-plugins-official | plugins/feature-dev/agents | .claude/agents | code-explorer code-architect code-reviewer
+anthropics/claude-plugins-official | plugins/feature-dev/commands | .claude/commands | feature-dev
+anthropics/claude-plugins-official | plugins/code-simplifier/agents | .claude/agents | code-simplifier
+anthropics/claude-plugins-official | plugins/pr-review-toolkit/agents | .claude/agents | silent-failure-hunter pr-test-analyzer comment-analyzer
+wshobson/agents | plugins/javascript-typescript/skills | .claude/skills | modern-javascript-patterns javascript-testing-patterns
+wshobson/agents | plugins/developer-essentials/skills | .claude/skills | e2e-testing-patterns error-handling-patterns
+wshobson/agents | plugins/avoid-ai-writing/skills | .claude/skills | avoid-ai-writing
+anthropics/knowledge-work-plugins | engineering/skills | .claude/skills | tech-debt testing-strategy
+msitarzewski/agency-agents | engineering | .claude/agents | engineering-frontend-developer engineering-minimal-change-engineer engineering-privacy-engineer engineering-rapid-prototyper
+msitarzewski/agency-agents | testing | .claude/agents | testing-reality-checker testing-accessibility-auditor testing-performance-benchmarker testing-evidence-collector
