@@ -1,7 +1,7 @@
 # dépôt source | dossier dans la source | destination | éléments (* = tout ; a=>b renomme) | mode (vide = automatique, manuel = seulement sur demande /nom)
-addyosmani/agent-skills | skills | .claude/skills | idea-refine interview-me spec-driven-development planning-and-task-breakdown incremental-implementation test-driven-development frontend-ui-engineering browser-testing-with-devtools debugging-and-error-recovery code-review-and-quality code-simplification performance-optimization security-and-hardening git-workflow-and-versioning documentation-and-adrs source-driven-development constraint-driven-development doubt-driven-development
+addyosmani/agent-skills | skills | .claude/skills | idea-refine interview-me spec-driven-development planning-and-task-breakdown incremental-implementation test-driven-development frontend-ui-engineering browser-testing-with-devtools debugging-and-error-recovery code-review-and-quality code-simplification performance-optimization security-and-hardening git-workflow-and-versioning documentation-and-adrs source-driven-development constraint-driven-development doubt-driven-development shipping-and-launch context-engineering
 addyosmani/agent-skills | references | .claude/references | *
-obra/superpowers | skills | .claude/skills | systematic-debugging verification-before-completion writing-plans receiving-code-review
+obra/superpowers | skills | .claude/skills | systematic-debugging verification-before-completion writing-plans receiving-code-review dispatching-parallel-agents finishing-a-development-branch
 obra/superpowers | skills | .claude/skills | brainstorming | manuel
 anthropics/skills | skills | .claude/skills | webapp-testing
 anthropics/claude-plugins-official | plugins/playground/skills | .claude/skills | playground

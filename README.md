@@ -16,11 +16,11 @@ Sélection tirée de dépôts publics ; provenance exacte et commits dans `SOURC
 |---|---|
 | Cadrer | `interview-me`, `idea-refine`, `spec-driven-development`, `constraint-driven-development`, `brainstorming` (sur demande : `/brainstorming`) |
 | Planifier | `planning-and-task-breakdown`, `writing-plans`, `incremental-implementation`, `source-driven-development` |
-| Coder | `frontend-ui-engineering`, `modern-javascript-patterns`, `error-handling-patterns`, `playground` (explorateurs HTML interactifs autonomes) |
+| Coder | `frontend-ui-engineering`, `modern-javascript-patterns`, `error-handling-patterns`, `playground` (explorateurs HTML interactifs autonomes), `dispatching-parallel-agents` (plusieurs sous-agents en parallèle), `context-engineering` (donner à Claude le bon contexte) |
 | Tester | `test-driven-development`, `javascript-testing-patterns`, `e2e-testing-patterns`, `browser-testing-with-devtools`, `webapp-testing` (Playwright, officiel Anthropic), `testing-strategy`, `verification-before-completion` |
 | Corriger / relire | `systematic-debugging`, `debugging-and-error-recovery`, `receiving-code-review`, `code-review-and-quality`, `code-simplification`, `doubt-driven-development`, `tech-debt` |
 | Durcir | `security-and-hardening`, `performance-optimization` |
-| Livrer / documenter | `git-workflow-and-versioning`, `documentation-and-adrs`, `avoid-ai-writing`, `claude-md-improver` |
+| Livrer / documenter | `git-workflow-and-versioning`, `documentation-and-adrs`, `avoid-ai-writing`, `claude-md-improver`, `shipping-and-launch` (liste de contrôle avant mise en ligne), `finishing-a-development-branch` (clôturer une branche) |
 
 ## Sous-agents
 | Source | Agents |
